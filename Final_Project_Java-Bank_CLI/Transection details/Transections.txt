@@ -1,0 +1,20 @@
+**************************************************
+Before deposit
+Balance of account number 123 : 1000.0
+800.5 Deposited successfully
+New balance of account number 123 : 1800.5
+**************************************************
+**************************************************
+Before withdraw
+Balance of account number 456 : 1550.5
+250.0 Withdrawn successfully
+New balance of account number 456 : 1300.5
+**************************************************
+**************************************************
+Before transfering
+Balance of account number 789 : 1200.5
+Balance of account number 123 : 1800.5
+110.5 Transfered successfully from account number 789 to 123
+New balance of account number 789 : 1090.0
+New balance of account number 123 : 1911.0
+**************************************************
