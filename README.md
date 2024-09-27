@@ -1,4 +1,4 @@
-# OOP1 Repository
+# Object Oriented Programming 1 (Java) Repository
 
 ## Overview
 
