@@ -18,7 +18,7 @@ For more details on the course, refer to the [AIUB Undergraduate Course Catalog]
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raihan4520/OOP1.git
+   https://github.com/Raihan4520/OOP1-Java.git
 2. Run the project using CLI.
 
 ## Contact
